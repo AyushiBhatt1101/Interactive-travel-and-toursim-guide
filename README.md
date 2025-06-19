@@ -1,4 +1,4 @@
-# 🌟 Interactive Travel and Tourism Guide for Dehradun
+![image](https://github.com/user-attachments/assets/4dc8398d-b05f-4021-92d6-c937796f9385)# 🌟 Interactive Travel and Tourism Guide for Dehradun
 
 A smart Python-based travel assistant designed for tourists visiting Dehradun. This application offers personalized itinerary planning, real-time weather simulation, parking prediction, voice translation, and interactive maps — all within an intuitive, modern GUI built with `Tkinter` and `CustomTkinter`.
 
@@ -38,12 +38,6 @@ A smart Python-based travel assistant designed for tourists visiting Dehradun. T
 - **🎨 Dark/Light Theme Toggle**
   - CustomTkinter-based modern UI
   - Real-time theme switching and animated transitions
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots or GIFs here showing the main features)*
 
 ---
 
